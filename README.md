@@ -77,12 +77,4 @@ Se hai bisogno di vedere i comandi disponibili, usa:
 
 ---
 
-## ⚠️ Avviso Importante ⚠️
-
-- **Non richiedere il codice di accesso in modo eccessivo.** Se succede, potremmo essere costretti a **modificare la password** e limitare l’accesso per tutti.
-- ❗️**Due membri sono già stati esclusi** per abuso del sistema. Presta attenzione!
-- **Evita di accedere tutti insieme** per prevenire blocchi di accesso.
-
----
-
 ✅ **Grazie per la collaborazione e buon utilizzo!**
