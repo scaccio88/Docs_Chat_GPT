@@ -36,44 +36,60 @@
 ## 🤖 Guida all'Uso del Bot Telegram
 
 ### 📌 1. Avviare il bot
-[Clicca qui per avviarlo](https://t.me/Gestore_Chat_GPT_bot)  
-Una volta aperto, clicca su **"Avvia"** oppure invia il comando:  
+
+[Clicca qui per avviarlo](https://t.me/Gestore_Chat_GPT_bot)\
+Una volta aperto, clicca su **"Avvia"** oppure invia il comando:\
 👉 `/start`
 
 ### 📌 2. Registrarsi nel sistema
-Per registrarti e poter usare il bot, digita:  
-👉 `/register`  
+
+Per registrarti e poter usare il bot, digita:\
+👉 `/register`\
 ⚠ Un admin deve convalidare il pagamento prima che tu possa proseguire.
 
 ### 📌 3. Ottenere la password di accesso
-Dopo l’approvazione dell’amministratore, ricevi la password con:  
-👉 `/ask`
+
+Dopo l’approvazione dell’amministratore, ricevi la password con:\
+👉 `/password`
 
 ### 📌 4. Generare un codice OTP
-Se sei registrato e hai effettuato il pagamento, genera un codice OTP con:  
-👉 `/generate`  
+
+Se sei registrato e hai effettuato il pagamento, genera un codice OTP con:\
+👉 `/generate`\
 🔹 **Cos'è un codice OTP?** Un OTP (**One-Time Password**) è un codice monouso temporaneo che serve per autenticarti in modo sicuro. Ha una validità limitata e viene richiesto ad ogni accesso.
 
 ### 📌 5. Ottenere aiuto sui comandi
-Se hai bisogno di vedere i comandi disponibili, usa:  
+
+Se hai bisogno di vedere i comandi disponibili, usa:\
 👉 `/help`
 
+### 📌 6. Fare una domanda al bot
+
+Se vuoi porre una domanda al bot e ricevere una risposta tramite Gemini AI, usa:\
+👉 `/ask [domanda]`
+
 ### 📌 Riepilogo Comandi
-✅ `/start` – Mostra il messaggio di benvenuto e i comandi disponibili.  
-✅ `/register` – Ti registra nel sistema per generare codici OTP.  
-✅ `/ask` – Ti fornisce la password di accesso (se hai pagato).  
-✅ `/generate` – Genera un codice OTP per l’accesso ai servizi.  
-✅ `/help` – Mostra la lista completa dei comandi e le loro descrizioni.  
+
+✅ `/start` – Mostra il messaggio di benvenuto e i comandi disponibili.\
+✅ `/register` – Ti registra nel sistema per generare codici OTP.\
+✅ `/ask` – Ti fornisce la password di accesso (se hai pagato) o risponde alle tue domande tramite Gemini AI.\
+✅ `/generate` – Genera un codice OTP per l’accesso ai servizi.\
+✅ `/help` – Mostra la lista completa dei comandi e le loro descrizioni.
 
 ### ⚠ Cose Importanti da Ricordare
-✔ Se il tuo stato è **"Non Pagato"**, non potrai generare codici o ricevere la password.  
-✔ Contatta un amministratore per l’attivazione.  
-✔ Ogni utente può accedere **unicamente dai propri dispositivi personali**.  
-✔ I codici OTP hanno una **validità limitata nel tempo**.  
+
+✔ Il comando `/ask` ha un **limite giornaliero di 10 richieste**.
+
+✔ Se il tuo stato è **"Non Pagato"**, non potrai generare codici o ricevere la password.\
+✔ Contatta un amministratore per l’attivazione.\
+✔ Ogni utente può accedere **unicamente dai propri dispositivi personali**.\
+✔ I codici OTP hanno una **validità limitata nel tempo**.
 
 📩 **Hai bisogno di aiuto?** Contatta un amministratore!
 
 🚀 **Buon utilizzo del bot!**
+
+
 
 ---
 
